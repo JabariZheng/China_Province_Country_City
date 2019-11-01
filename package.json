@@ -1,0 +1,11 @@
+{
+  "name": "province_city_country_data",
+  "version": "1.0.0",
+  "description": "最新省市县源数据",
+  "scripts": {
+    "multi": "node multilayer.js",
+    "single": "node singlelayer.js"
+  },
+  "author": "Doudou105@outlook.com",
+  "license": "ISC"
+}
